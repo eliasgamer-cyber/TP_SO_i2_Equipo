@@ -1,0 +1,7 @@
+para actualizar mi repositorio al estado del que hice fork y mantener mis cambios y los del otro repositorio
+tengo que agregar la dirección del repositorio que hice fork con git remote add upstream, luego descargar los cambios del repositorio que hice fork con git fetch upstream, luego integrar los cambios con git merge del upstream/main para que se integre del otro repositorio al mio.
+subir los cambios a mi repositorio con git push origin main
+alfa puedo también hacer el mismo cambio.
+ambos tres pueden integrar los cambios del otro, aunque podrían pisarse si modifican todos un mismo archivo,habria un problema en el merge.
+los datos de mi repositorio no se borran, permanecen ahí ,solo integre archivos del otro repositorio.
+Escalante Elias
