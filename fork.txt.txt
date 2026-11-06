@@ -1,0 +1,4 @@
+este es el primer fork,lo realiza gamma
+nombre: Uriel
+hora: 9:13
+ip: 192.168.1.38
